@@ -1,0 +1,71 @@
+# /.github/workflows/daily.yml
+# based on https://github.com/carbonphyber/watch-epa-superfund-sites/blob/main/.github/workflows/daily.yml
+on:
+  schedule:
+    - cron:  '*/10 * * * *' # Every 10 minutes
+name: Pull Data and Build
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Log Python location
+      run: which python
+    - name: Scrape Stats
+      run: |
+        curl -o data/caiso-stats-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/stats.txt?_=$(date +%s)"
+    - name: Pretty Print the Scrape Stats JSON
+      run: |
+        cat data/caiso-stats-raw.json | python -m json.tool > data/caiso-stats.json
+    - name: Scrape Demand Data
+      run: |
+        curl -o data/caiso-demand-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/demand.csv?_=$(date +%s)"
+    - name: Pretty Print the Demand Data JSON
+      run: |
+        cat data/caiso-demand-raw.json | python -m json.tool > data/caiso-demand.json
+    - name: Scrape Net Demand Data
+      run: |
+        curl -o data/caiso-netdemand-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/netdemand.csv?_=$(date +%s)"
+    - name: Pretty Print the Net Demand Data JSON
+      run: |
+        cat data/caiso-netdemand-raw.json | python -m json.tool > data/caiso-netdemand.json
+    - name: Scrape Supply Data
+      run: |
+        curl -o data/caiso-supply-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/stats.txt?_=$(date +%s)"
+    - name: Pretty Print the Supply Data JSON
+      run: |
+        cat data/caiso-supply-raw.json | python -m json.tool > data/caiso-supply.json
+    - name: Scrape Supply FuelSource Data
+      run: |
+        curl -o data/caiso-supply-fuelsource-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/fuelsource.csv?_=$(date +%s)"
+    - name: Pretty Print the Supply FuelSource Data JSON
+      run: |
+        cat data/caiso-supply-fuelsource-raw.json | python -m json.tool > data/caiso-supply-fuelsource.json
+    - name: Scrape Supply Storage Data
+      run: |
+        curl -o data/caiso-supply-storage-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/storage.csv?_=$(date +%s)"
+    - name: Pretty Print the Supply Storage Data JSON
+      run: |
+        cat data/caiso-supply-storage-raw.json | python -m json.tool > data/caiso-supply-storage.json
+    - name: Scrape CO2 Historical Data
+      run: |
+        curl -o data/caiso-co2-historical-raw.json --no-progress-meter "http://www.caiso.com/Style%20Library/caiso/js/outlook/co2Historical.txt?_=$(date +%s)"
+    - name: Pretty Print the CO2 Historical Data JSON
+      run: |
+        cat data/caiso-co2-historical-raw.json | python -m json.tool > data/caiso-co2-historical.json
+    - name: Scrape CO2 Data
+      run: |
+        curl -o data/caiso-co2-raw.json --no-progress-meter "http://www.caiso.com/outlook/SP/co2.csv?_=$(date +%s)"
+    - name: Pretty Print the CO2 Data JSON
+      run: |
+        cat data/caiso-co2-raw.json | python -m json.tool > data/caiso-co2.json
+    - name: Scrape CO2 Historical Chart Data
+      run: |
+        curl -o data/caiso-co2-historical-chart-raw.json --no-progress-meter "http://www.caiso.com/Style%20Library/caiso/js/outlook/co2HistoricalChart.txt?_=$(date +%s)"
+    - name: Pretty Print the CO2 Historical Chart Data JSON
+      run: |
+        cat data/caiso-co2-historical-chart-raw.json | python -m json.tool > data/caiso-co2-historical-chart.json
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
