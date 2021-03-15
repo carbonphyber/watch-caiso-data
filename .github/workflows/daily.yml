@@ -70,6 +70,13 @@ jobs:
     - name: Pretty Print the CO2 Historical Chart Data JSON
       run: |
         cat data/caiso-co2-historical-chart-raw.json | python -m json.tool > data/caiso-co2-historical-chart.json
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+    - name: Commit new data
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add data/
+        if [[ -n "$(git status -s -- data/)" ]] then
+          TIMESTAMP_NOW=`date -u +"%Y-%m-%dT%H:%M:%SZ"`
+          git commit -m "data scraped at $TIMESTAMP_NOW"
+          git push
+        fi
