@@ -1,12 +1,12 @@
 {
     "todayForecastPeakDemandTS":  "20210806174500",
     "AvailableCapacity":  42313,
-    "currentWind":  3359,
+    "currentWind":  3364,
     "Limitation":  0,
     "CurrentSystemDemandWithoutPump":  24214,
     "histDemand":  "50,270 MW",
     "TodaysPeakDemand":  28585,
-    "slotDate":  "08/06/2021 03:50",
+    "slotDate":  "08/06/2021 03:55",
     "gridstatus":  [
                        "Normal"
                    ],
@@ -19,9 +19,9 @@
     "HistoryFirstDate":  "20180410",
     "CurrentAdjustedUnloadedGenerationCapacityTS":  "20210806034956",
     "CurrentSystemDemandWithoutPumpTS":  "20210806034811",
-    "currentRenewableswoBatteries":  4888,
+    "currentRenewableswoBatteries":  4893,
     "TodaysPeakDemandTS":  "20210806000332",
-    "currentRenewables":  5030,
+    "currentRenewables":  5035,
     "CurrentNetDemandTS":  "20210806034811",
     "CurrentAdjustedUnloadedGenerationCapacity":  17590,
     "renewablesPercent":  20,
