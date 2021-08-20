@@ -1,744 +1,290 @@
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html dir="ltr" class="ms-isBot" lang="en-US">
-
-    <head><link id="ctl00_favicon" rel="shortcut icon" href="/TodaysOutlook/Style Library/caiso/images/favicon.ico?rev=30" type="image/vnd.microsoft.icon" /><meta http-equiv="X-UA-Compatible" content="IE=8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png" /><meta name="msapplication-TileColor" content="#0072C6" /><title>
-	
-	California ISO - 
-	404 - Page Not Found
-
-</title><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/page-layouts-21.css"/>
-<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=f4ES4o33Y5B6OSnm1GOXLA%3D%3DTAG0"/>
-<link rel="stylesheet" type="text/css" href="/Style%20Library/caiso/css/styles.css"/>
-<link rel="stylesheet" type="text/css" href="/Style%20Library/caiso/css/caiso_style.css"/>
-<link rel="stylesheet" type="text/css" href="/TodaysOutlook/Style%20Library/caiso/css/leftnav.css"/>
-<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
-<script type="text/javascript" src="/_layouts/15/init.js?rev=7zk4lkY%2F8aZTTOtXemlPEw%3D%3DTAG0"></script>
-<script type="text/javascript" src="/ScriptResource.axd?d=3EQJRaiaXDhDwXeJyJuRq6rgq_PMy2iT2MRsIV9ikNqo5writbDk1q5zQ7UGySCt6t5qEWmgAh1Da3hRmvozuE97SAPilObcW7KP5AY61YLglq41I30aFQd0bDG2nR9WHSJUrALW9M3g0Ri7NqQERsbPlVPIi5Y8XJRw3bgwsdvLZ5XDPSlaMlZCCrhUKBcs0&amp;t=363be08"></script>
-<script type="text/javascript" src="/_layouts/15/blank.js?rev=egqUyf5KZ4IhuxDCho0QSw%3D%3DTAG0"></script>
-<script type="text/javascript" src="/_layouts/15/caiso.sharepoint.webpartpages/jquery/tabslideout/jquery.tabslideout.v1.3.js"></script>
-<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=k\u00252FSaOdWtcHDDvsb\u00252FUFykOA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=MbB92HT8biYuFa\u00252B1vTMilA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=Iz\u00252BzGfHENHGGa0dTlPJzvw\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=QiChmjkTgPkE66XKdx3cWA\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=DOONsAYbnlZhpZzixlV2eg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=czXmKOm74Q7YDDo\u00252BUT8I5A\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=rOlK\u00252FbcGuMwTNgarPJhc3w\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
-<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=jamP7UYAdX3aDu2dFNCIuQ\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=iI\u00252Fce4k14Zj15tGZNCwwRA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=JTvXL55WMqZjYQDY3l3Seg\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=goaJECSBtnvwqKt5K1BLog\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("sharedhovercard.strings.js", "\u002f_layouts\u002f15\u002f1033\u002fsharedhovercard.strings.js?rev=sLsS\u00252FNPqFzOSO42e3s6lgw\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sharedhovercard.js", "\u002f_layouts\u002f15\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\u00253D\u00253DTAG0");RegisterSodDep("sharedhovercard.js", "sharedhovercard.strings.js");</script>
-<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=j12e40\u00252BGFTmO3v7V02WpqA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=6Ru\u00252F6U6mSfI8ZMec57uUlQ\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=RO9BmDPg\u00252F8Ue5QozI2\u00252FV\u00252Bg\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=h9HTMWd5GwhZpWvxft3\u00252FFw\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002f1033\u002fsrch.resources.js?rev=YFZFsHKXct9hchZcv\u00252BUURA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=llkkoa8WzW2Akde91RvLUw\u00253D\u00253DTAG0");RegisterSodDep("search.clientcontrols.js", "sp.init.js");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
-<script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=HAx1PXh3dmISREk3Xv5ClQ\u00253D\u00253DTAG0");RegisterSodDep("sp.search.js", "sp.init.js");RegisterSodDep("sp.search.js", "sp.runtime.js");</script>
-<script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=D\u00252BopWJT1QLPe7G8RdEG71A\u00253D\u00253DTAG0");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js");</script>
-<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=NuVNMaU\u00252FizPZg\u00252FiqXPqmsQ\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=8Uf7jbdkvsZJjmxnQBel2w\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
-<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=5Tkm3XjgJGQP4THlGrY\u00252FwA\u00253D\u00253DTAG0");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
-<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=m2Nvtm13DRgodCVi\u00252BsRukw\u00253D\u00253D");</script>
-<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002f15\u002fmdn.js?rev=8NNwivaC8jSLGWcNFulEiA\u00253D\u00253DTAG0");RegisterSodDep("mdn.js", "sp.init.js");RegisterSodDep("mdn.js", "core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
-<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
-<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=yRxVWQYkZTBGVssy0i0VzQ\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
-<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=jKvDLBvLPyniQy3sT365tg\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
-<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=x23s\u00252B2avn54nfE2ZclQyMg\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
-<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=B4mwUlWJcEbmJADa76aeYg\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
-<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=alD9oEtJs2ZfpCJyZRyHYQ\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
-<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
-            
-	
-		
-		
-	
-	
-		
-	<script type="text/javascript">
-	          var bamGA404=true;
-	</script>			
-		
-
-            <link rel="canonical" href="http://www.caiso.com:80/Pages/404.aspx?_=1629428795" />
-        <link rel="shortcut icon" href="/TodaysOutlook/Style Library/caiso/images/favicon.ico?rev=30" type="image/vnd.microsoft.icon" id="favicon" />
-		<![CDATA[ [if IE 9] ]]>        <style type="text/css">//<![CDATA[
-		    .ms-core-animation-transparent
-		    {
-		        opacity:0;
-		    }
-		    .ms-isBot .ms-core-animation-transparent
-		    {
-		        opacity:1;
-		    }        
-	        //]]></style>
-		<![CDATA[ [endif] ]]>        <!--[if lte IE 8]>
-        <style type="text/css">//<![CDATA[
-	        .ms-core-animation-transparent,
-	        .ms-core-animation-transparent img
-	        {
-	           -ms-filter:"alpha(opacity=0)";
-	        }
-	        .ms-isBot .ms-core-animation-transparent,
-	        .ms-isBot .ms-core-animation-transparent img
-	        {
-	           -ms-filter:"";
-	        }
-	        #pageStatusBar{
-				margin-bottom:0px;
-				color:white;
-			}
-	        //]]></style>
-        <![endif]-->
-        <script type="text/javascript">
-            //<![CDATA[
-            var g_pageLoadAnimationParams = { elementSlideIn: "sideNavBox", elementSlideInPhase2: "contentBox" };
-            //]]></script>
-
-        
- 
-        
-		<!--Moving CSS registrations to page -->
-        <link id="ctl00_WWWCSS" rel="stylesheet" type="text/css" href="/TodaysOutlook/Style%20Library/caiso/css/WWW.css?v=4" /><link id="ctl00_TreeViewCSS" rel="stylesheet" type="text/css" href="/TodaysOutlook/Style%20Library/caiso/css/Telerik/Skins/TreeView.css?v=5795dcbb-573d-45e0-881e-74275e88900f" /><link id="ctl00_TreeViewISOCSS" rel="stylesheet" type="text/css" href="/TodaysOutlook/Style%20Library/caiso/css/Telerik/Skins/ISO/TreeView.ISO.css?v=5795dcbb-573d-45e0-881e-74275e88900f" /><link id="ctl00_StylesCSS" rel="stylesheet" type="text/css" href="/TodaysOutlook/Style%20Library/caiso/css/styles.css?v=5795dcbb-573d-45e0-881e-74275e88900f" /><link id="ctl00_ResetHomeCSS" rel="stylesheet" type="text/css" href="/TodaysOutlook/Style%20Library/caiso/css/reset_home.css?v=5795dcbb-573d-45e0-881e-74275e88900f" /> 
-
-
-		<!--Moving Script registrations to page -->
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/jquery-1.5.min.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/jquery.tools.min.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/jquery.hoverIntent.minified.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/topnav.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/jquery.livequery.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/documentservice.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/CAISOPublisher.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/InterWindowCom.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/jquery.collapsiblepanel.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>
-		<script src="/TodaysOutlook/Style%20Library/caiso/js/jquery.tabSlideOut.js" type="text/javascript"></script>
-		             
-		<!-- Google Analytics per Blast -->
-        <script type="text/javascript">
-            var bamGAID = 'UA-19970219-1'; //Assumes live site first
-            if (window.location.host.match('wwwstage.') != null || window.location.host.match('fwebs07.') != null || window.location.host.match('.oa.caiso.com') != null || window.location.port > 500) {
-                bamGAID = "UA-19970219-2"; // Override with the dev site code
-            };
-        </script>
- 
-        <!-- Google Analytics per Blast -->
-        <link rel="stylesheet" type="text/css" href="/TodaysOutlook/Style Library/caiso/css/print-view.css" media="print" />  
-        <script type="text/javascript" async="" src="https://siteimproveanalytics.com/js/siteanalyze_6044293.js"></script>
-		<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script> 
-        <script type="text/javascript" src="/TodaysOutlook/Style%20Library/Google/caiso-ga-track.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1"></script>	
-        
-    </head>
-    <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();">
-        <form method="post" action="./netdemand.csv?_=1629428795" id="aspnetForm">
-<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" />
-<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
-<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
-<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
-<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
-<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
-<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
-<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
-<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
-<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
-<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
-<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
-<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
-<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
-<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
-<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
-<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
-<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
-<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
-<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIHD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhEPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIDD2QWCgILD2QWAmYPZBYCAg0PFCsAAhQrAANkZGRkZAIND2QWBGYPFQEAZAIBDw8WAh4HVmlzaWJsZWhkZAIdD2QWAgICD2QWAgIBD2QWAgIDDxYCHwFoFgJmD2QWBAIDD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIEDw8WAh4JQWNjZXNzS2V5BQEvZGQCMQ9kFgICAQ9kFgICDQ8PFgIfAWhkFgICAQ9kFgJmD2QWAgIDD2QWAgIFD2QWAgIBDzwrAAkBAA8WBB4NUGF0aFNlcGFyYXRvcgQIHg1OZXZlckV4cGFuZGVkZ2RkAjsPZBYCAgIPZBYKAgEPZBYCAgEPFgIfAWgWBAIBDxYEHwALKwQBHwFoFgJmDxYCHwALKwQBZAIDDxYEHwALKwQBHwFoZAIDDw8WAh8BaGRkAgcPFgIfAAsrBAFkAgsPFgIfAAsrBAFkAg8PFgIfAAsrBAFkGAIFLWN0bDAwJFBsYWNlSG9sZGVyTGVmdE5hdkJhciRWNFF1aWNrTGF1bmNoTWVudQ8PZAUGUmVjZW50ZAUsY3RsMDAkUGxhY2VIb2xkZXJUb3BOYXZCYXIkVG9wTmF2aWdhdGlvbk1lbnUPD2QFBEhvbWVkbb/ffgQYsbBBdmc3JoXIfl8yjUNbSJz5EGlszt7sRDs=" />
-
-
-<script type="text/javascript">
-//<![CDATA[
-var MSOWebPartPageFormName = 'aspnetForm';
-var g_presenceEnabled = true;
-var g_wsaEnabled = false;
-
-var g_correlationId = '323be79f-e78b-c0bd-4b10-d9d3500d0565';
-var g_wsaQoSEnabled = false;
-var g_wsaQoSDataPoints = [];
-var g_wsaRUMEnabled = false;
-var g_wsaLCID = 1033;
-var g_wsaListTemplateId = 850;
-var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002fwww.caiso.com", siteAbsoluteUrl: "http:\u002f\u002fwww.caiso.com", serverRequestPath: "\u002fpages\u002f404.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Home", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fSiteCollectionImages\u002fCAISOlogo.jpg", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2021-08-20T03:06:37.6929514Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-08-20T03:06:37.6929514Z"), siteClientTag: "2202$$16.0.5083.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:0,Low:196673},pageListId:"{1cd8961c-2e53-48a2-a6a5-9284056355cf}",pageItemId:87, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/"};
-function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
-
-    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002foutlook\u002fSP\u002fnetdemand.csv");
-
-}
-Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
-{
-    if(typeof(window.SP) == "undefined") window.SP = {};
-    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
-
-    var ysObj = window.SP.YammerSwitch;
-    ysObj.IsEnabled = false;
-    ysObj.TargetYammerHostName = "www.yammer.com";
-} )(); //]]>
-</script>
-
-<script src="/_layouts/15/blank.js?rev=egqUyf5KZ4IhuxDCho0QSw%3D%3DTAG0" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-(function(){
-
-        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
-            return;
-        }
-        _spBodyOnLoadFunctions.push(function() {
-            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
-        });
-    })();(function(){
-
-        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
-            return;
-        }
-        _spBodyOnLoadFunctions.push(function() {
-            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
-        });
-    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
-</script>
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />        
-            <div id="imgPrefetch" style="display:none">
-<img src="/TodaysOutlook/Style Library/caiso/images/favicon.ico?rev=30" />
-<img src="/_layouts/15/images/spcommon.png?rev=40" />
-</div>
-
-            <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
-            
-            <script type="text/javascript">
-                //<![CDATA[ var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } };
-
-
-                //]]></script>
-            
-
-
-            
-            
-
-            
-			
-
-
-
-            
-            
-            
-            <span id="DeltaDelegateControls">
-                
-                
-            </span>
-            <div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex">
-                <a id="linkTurnOnAcc" data-accessibility-nocheck="true" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
-                    Turn on more accessible mode
-                </a>
-            </div>
-            <div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
-                <a id="linkTurnOffAcc" data-accessibility-nocheck="true" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
-                    Turn off more accessible mode
-                </a>
-            </div>
-            <div class="s4-notdlg s4-skipribbonshortcut noindex">
-                <a href="javascript:;" data-accessibility-nocheck="true" onclick="document.getElementById(&#39;startNavigation&#39;).focus();" class="ms-SkiptoNavigation" accesskey="Y">
-                    Skip Ribbon Commands
-                </a>
-            </div>
-            <div class="s4-notdlg noindex">
-                <a href="javascript:;" data-accessibility-nocheck="true" onclick="document.getElementById(&#39;mainContent&#39;).focus();" class="ms-SkiptoMainContent" accesskey="X">
-                    Skip to main content
-                </a>
-            </div>
-            <div id="TurnOffAnimation" style="display:none;" class="s4-notdlg noindex">
-                <a id="linkTurnOffAnimation" data-accessibility-nocheck="true" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
-                    Turn off Animations
-                </a>
-            </div>
-            <div id="TurnOnAnimation" style="display:none;" class="s4-notdlg noindex">
-                <a id="linkTurnOnAnimation" data-accessibility-nocheck="true" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
-                    Turn on Animations
-                </a>
-            </div>
-            <a id="HiddenAnchor" href="javascript:;" style="display:none;">
-            </a>
-            <div id="ms-hcTest">
-            </div>
-            <div id="ms-designer-ribbon">
-                <div>
-	
-	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
-
-</div>
-
-
-            </div>             
-			<span><div style="display:none;">
-<a id="ctl00_ctl59_ExplicitLogin" class="ms-signInLink" href="http://www.caiso.com/_layouts/15/Authenticate.aspx?Source=%2Foutlook%2FSP%2Fnetdemand%2Ecsv%3F%5F%3D1629428795" style="display:inline-block;">Sign In</a>
-</div></span>
-       		
-       		<div class="banner-top"><p>The California ISO is monitoring COVID-19 developments, and is taking proactive steps to protect staff, customers, community, and the electric grid. <a href="/about/Pages/News/default.aspx#covid19">Learn more.</a></p></div>
-			<!--<div class="banner-top yellow"><p><strong>Due to high traffic, site performance may be impacted.</strong></p></div>-->
-
-            <div id="s4-workspace" class="s4-nosetwidth">
-                <div id="s4-bodyContainer">
-                
-                    <!-- link back to homepage, SiteLogoImage gets replaced by the Site Icon, you can hard code this so that its not overridden by the Site Icon or even remove -->
-                    <!-- NOTE: any time you see s4-notdlg, this element will be hidden from SharePoint dialog windows  -->
-                    <div class="s4-notdlg">
-
-                        <div class="top_nav_holder">
-                            <table border="0" align="right" cellpadding="0" cellspacing="0">
-                                <tr>
-                                    <td>
-                                        <img src="/TodaysOutlook/Style%20Library/caiso/images/top_nav_ltend.gif" height="29" width="5" />
-                                    </td>
-                                    <td class="top_nav_button"><a class="trackClickUtility" href="javascript:wirestoneCalendar_openModalDialog();">Calendar</a></td>
-                                    <td class="top_nav_divider"></td>
-                                    <td class="top_nav_button"><a class="trackClickUtility" href="/TodaysOutlook/Pages/default.aspx">Today's Outlook</a></td>
-                                    <td class="top_nav_divider"></td>
-                                    <td class="top_nav_button"><a class="trackClickUtility" href="/pages/recent-documents.aspx">Recent Documents</a></td>
-                                    <td class="top_nav_divider"></td>
-                                    <td class="top_nav_button"><a class="trackClickUtility" href="/dailybriefing/Pages/default.aspx">Daily Briefing</a></td>
-                                    <td class="top_nav_divider"></td>
-                                    <td class="top_nav_button"><a class="trackClickUtility" href="/about/Pages/Careers/default.aspx">Careers</a></td>
-                                    <td class="top_nav_divider"></td>
-                                    <td class="top_nav_button"><a class="trackClickUtility" href="/Pages/ContactUs.aspx">Contact Us</a></td>
-                                    <td>
-                                        <img src="/TodaysOutlook/Style%20Library/caiso/images/top_nav_rtend.gif" height="29" width="4" />
-                                    </td>
-                                </tr>
-                            </table>
-                        </div>
-                        <!-- end top_nav_holder -->
-
-                        <div class="logo_search">
-                            <div class="logo">
-                                <a href="/"><img src="/SiteCollectionImages/CAISOlogo.jpg" /></a>
-                            </div>
-
-                            <div class="search_holder">
-                                <!-- search box loads from delegate, style with CSS -->
-                                <div id="DeltaPlaceHolderSearchArea" class="ms-mpSearchBox ms-floatRight">
-	
-                                    
-										<div id="searchInputBox">
-                                            <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
-		<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv"><input type="text" value="Search..." maxlength="2048" accessKey="S" title="Search..." id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText"/><a title="Search" role="button" class="ms-srch-sb-searchLink" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);})" href="javascript: {}" ><img src="/_layouts/15/images/searchresultui.png?rev=40" class="ms-srch-sb-searchImg" id="searchImg" alt="Search" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList"></div></div></div></div></div><noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1">
-
-		</div><div class="ms-clear"></div></div>
-	</div>
-                                        </div>
-                                    
-                                
-</div>
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- top navigation area -->
-                    <div class="s4-notdlg">
-                        <div id="DeltaTopNavigation" class="ms-displayInline">
-	
-                            
-                            
-								<div id="zz1_TopNavigationMenu" class="CAISOtopnav noindex ms-core-listMenu-horizontalBox">
-		<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
-			<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" title="Home" href="/Pages/default.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Home</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
-				<li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">About Us</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/OurBusiness/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Our Business</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/OurLeadership/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Our Leadership</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/OurCommitment/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Our Commitment</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/News/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">News</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/Publications_Financials/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Publications and Financials</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/Careers/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Careers</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/IndustryInsights/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Industry Insights</span></span></a></li>
-				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Participate</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/ResourceInterconnectionGuide/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Resource Interconnection Guide</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/BecomeSchedulingCoordinator/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Scheduling Coordinator</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline new-window ms-navedit-linkNode" href="https://www.westerneim.com/pages/default.aspx" target="_blank"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Energy Imbalance Market</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/Generation/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Generation</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/Load/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Demand Response and Load</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/DistributedEnergyResourceProvider/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Distributed Energy Resource Provider</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/DynamicTransfers/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Dynamic Transfers</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/Storage/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Storage</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/MeteredSubsystem/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Metered Subsystem</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/Transmission/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Transmission</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/UtilityDistributionCompany/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Utility Distribution Company</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/MeteringTelemetry/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Metering and Telemetry</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/MarketProducts/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Market Products</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/ApplicationAccess/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Application Access</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/LearningCenter/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Learning Center</span></span></a></li>
-				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Stay Informed</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/BoardCommittees/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Board and Committees</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://stakeholdercenter.caiso.com/StakeholderInitiatives"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Stakeholder Initiatives</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://stakeholdercenter.caiso.com/RecurringStakeholderProcesses"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recurring Stakeholder Processes</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/ReleasePlanning/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Release Planning</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/CleanGrid/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Clean, Green Grid</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/ManagingOversupply.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Managing Oversupply</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/RegionalCollaboration.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Regional Collaboration</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline new-window ms-navedit-linkNode" href="https://www.westerneim.com/pages/default.aspx" target="_blank"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Energy Imbalance Market</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/RCWest/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">RC West</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/RegionalSolutions.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Regional Solutions</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/MeetingsEvents/StakeholderSymposium/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Stakeholder Symposium</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/Notifications/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Subscriptions and notifications</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/MeetingsEvents/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Meetings and Events</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/RecentDocuments.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recent Documents</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/BulletinsReportsStudies/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bulletins Reports and Studies</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/Regulatory/RegulatoryFilingsAndOrders.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Regulatory Filings and Orders</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/dailybriefing/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Daily Briefing</span></span></a></li>
-				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Planning</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/GeneratorInterconnection/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Generator Interconnection</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/ReliabilityRequirements/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Reliability Requirements</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/TransmissionPlanning/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Transmission Planning</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/InterregionalTransmissionCoordination/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Interregional Transmission Coordination</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/ReportsBulletins/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Reports and Bulletins</span></span></a></li>
-				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Market &amp; Operations</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/MarketProcesses.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Market Processes and Products</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/NetworkandResourceModeling/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Network and Resource Modeling</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/OutageManagement/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Outage Management</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/InterchangeScheduling/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Interchange Scheduling</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/MeteringTelemetry/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Metering and Telemetry</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/Settlements/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Settlements</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/TransmissionOperations/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Transmission Operations</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/PowerContractsBulletinBoard/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Power Contracts Bulletin Board</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/ReportsBulletins/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Reports and Bulletins</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/MarketMonitoring/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Market Monitoring</span></span></a></li>
-				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Rules</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/Regulatory/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Regulatory</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/BusinessPracticeManuals/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Business Practice Manuals</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/OperatingProcedures/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Operating Procedures</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/RequirementsGuidelines/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Requirements and Guidelines</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/LegalPoliciesNotices/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Legal Policies and Notices</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/ContractsAgreements/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Contracts and Agreements</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/Compliance/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Compliance</span></span></a></li>
-				</ul></li><li class="static dynamic-children"><a class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/enespanol/Pages/default.aspx"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">ISO En Español</span></span></a><ul class="dynamic">
-					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/enespanol/Pages/Entendiendo-al-ISO/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Entendiendo al ISO</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/enespanol/Pages/Procesos-y-productos-del-mercado.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Procesos y productos de mercado</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline new-window ms-navedit-linkNode" href="http://www.flexalert.org/spanish" target="_blank"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Alerta &quot;Flex&quot;</span></span></a></li>
-				</ul></li>
-			</ul></li>
-		</ul>
-	</div>
-                            
-                        
-</div>
-                    </div>
-
-                    <!-- page editing status bar -->
-                    <div class="s4-notdlg">
-                        <div id="s4-statusbarcontainer" class="s4-notdlg">
-                            <div id="DeltaPageStatusBar">
-	
-                                <div id="pageStatusBar" class="s4-status-s1"></div>
-                            
-</div>
-                        </div>
-                    </div>
-                   
-                    <div style="display:none;">
-                        <span id="DeltaBreadcrumbDropdown">
-                            
-                        </span>
-                        <div id="DeltaPlaceHolderGroupActionsArea" class="ms-floatRight ms-noWrap">
-	
-                            
-                        
-</div>
-                    </div>
-
-                    <!-- styles needed to have left nav to the left of the main area -->
-                    <div id="s4-leftpanel" class="s4-notdlg">
-                        <!-- The quick launch bar / left navigation -->
-                        <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation" role="navigation">
-	
-                            
-								
-                                <a id="startNavigation" name="startNavigation" tabIndex="-1">
-                                </a>
-                                
-                                
-                                
-                                
-
-                                <div class="ms-core-sideNavBox-removeLeftMargin">
-                                    <div id="ctl00_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
-		<div id="zz3_V4QuickLaunchMenu" class=" noindex ms-core-listMenu-verticalBox">
-			<ul id="zz4_RootAspMenu" class="root ms-core-listMenu-root static">
-				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/_layouts/15/viewlsts.aspx?BaseType=4"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Surveys</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/_layouts/15/viewlsts.aspx?BaseType=0"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Lists</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/_layouts/15/viewlsts.aspx?BaseType=1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Libraries</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Pages/ContactUs.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Contact Us</span></span></a></li><li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" href="/"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recent</span><span class="ms-hidden">Currently selected</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/dailybriefing/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Daily Briefing</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/fieldworksupport/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">EDAS Request Tool</span></span></a><ul class="static">
-					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/fieldworksupport/Pages/ReviewRequest.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Review Request</span></span></a></li>
-				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/ISOCalendar/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">ISO Calendar</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" title="ISO En Español" href="/enespanol/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">ISO En Español</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/market/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Market Operations</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/participate/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Participate</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/planning/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Planning</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/PriceMap/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">PriceMap</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rules/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Rules</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/searchvanilla/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Search Vanilla</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/informed/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Stay Informed</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/about/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">About Us</span></span></a></li>
-			</ul>
-		</div>
-	</div>
-                                    
-                                    
-										<div class="ms-core-listMenu-verticalBox">
-                                            
-
-                                        </div>
-                                    
-                                </div>
-                                
-                            
-                        
-</div>
-
-                        <!-- The small menu attached Quick Launch bar. Used only on very specific pages -->
-                        
-                    </div>
-
-
-                    <!-- s4-ca is the main body div -->
-                    <div class="s4-ca">
-                        <div id="notificationArea" class="ms-notif-box">
-                        </div>
-
-                        <div class="s4-notdlg">
-                            
-                        </div>
-
-                        <div class="s4-notdlg">
-                            <!-- page title -->
-                            <span id="DeltaPlaceHolderPageTitleInTitleArea">
-                                
-		<!--404-->
-
-                            </span>
-                        </div>
-
-                        <div id="DeltaPlaceHolderPageDescription" class="ms-normalWrap">
-	
-                            <a href="javascript:;" id="ms-pageDescriptionDiv" style="display:none" data-accessibility-nocheck="true">
-                                <span id="ms-pageDescriptionImage">
-                                </span>
-                            </a>
-                            <span class="ms-accessible" id="ms-pageDescription">
-                                
-                            </span>
-                            <script type="text/javascript">// <![CDATA[ 
-
-_spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
-						 // ]]>
-</script>
-                        
-</div>
-
-                        <div>
-                            <!-- page content loads from the pages and pages layout -->
-                            <div id="DeltaPlaceHolderMain">
-	
-                                <a id="mainContent" name="mainContent" tabindex="-1">
-                                </a>
-                                
-	<style>
-		.edit-mode-border{
-			padding:0px;
-			width:100%;
-			padding-right:36px;
-		}
-		.ms-rtestate-field{
-			/*min-width:586px;*/
-			white-space:pre-wrap;
-			
-		}
-}
-	</style>
-	
-<div style="padding:11px 0px 0px 0px;">
-	<div class="ms-descriptiontext ewiki-margin">					
-		
-							
-	</div>
-	
-	
-	<div>
-										
-										
-		<div class="landing_feature_banner" style="height:auto">
-			<div id="ctl00_PlaceHolderMain_ctl01_label" style='display:none'>Rollup Image</div><div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_label"><div class="ms-rtestate-field"></div></div>
-		</div>
-	 <!-- end feature_banner -->
-	
-		<div class="ISOLayoutWide_mainContent">
-		
-			<div class="ISOLayoutWide_breadcrumb">
-				<span SiteMapProviders="SPSiteMapProvider,SPXmlContentMapProvider" HideInteriorRootNodes="true"><span><a title="Home" class="breadcrumbRootNode" href="/Pages/default.aspx">Home</a></span><span> &gt; </span><span class="breadcrumbCurrentNode">404 - Page Not Found</span></span>
-			</div><!-- end breadcrumb -->
-			<div style="height: 1px; width: 100%; clear: both;"></div>	
-
-			<div class="ISOLayoutWide-container">
-				<div class="ISOLayoutWide-topContent ISOContent"><!-- A reliable and accessible power grid -->
-					<div id="ctl00_PlaceHolderMain_rightLeft_label" style='display:none'>Page Content</div><div id="ctl00_PlaceHolderMain_rightLeft__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_rightLeft_label"><h1>The page could not be found.</h1><h2>The page you are looking for might have been removed, has its name changed, or is temporarily unavailable.</h2><p>&#160;</p><p>Please try the following&#58;</p><div><ul><li>If you typed the page address in the Address bar, make sure that it is spelled correctly.</li><li>Open the <a href="/">www.caiso.com</a> home page, and then look for links to the information you want.</li><li>Click the <a>Back</a> button to try another link.</li><li>Click Search this site box on the right corner to look for information on the site.</li></ul></div></div></div>
-				<div class="ISOLayoutWide-topGraphic"><!-- Placeholder image -->
-					<menu class="ms-hide">
-		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
-
-		</ie:menuitem>
-	</menu></div>
-				<div class="ISOLayoutWide-contentDivider"><!-- Always make second group top-even --></div>
-				<div class="ISOLayoutWide-bottomContent ISOContent"><!-- Learn more about California ISO -->
-					<div id="ctl00_PlaceHolderMain_smallImage_label" style='display:none'>ISORichHTML</div><div id="ctl00_PlaceHolderMain_smallImage__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_smallImage_label"></div></div>
-				<div class="ISOLayoutWide-bottomRight"><!-- Featured Content -->
-					</div>
-			</div>
-				
-		</div><!-- end of ISOLayoutWide_mainContent -->		
-	</div>
-</div>										
-
-
-<div style='display:none' id='hidZone'></div>
-                            
-</div>
-                        </div>
-                    </div>
-
-                    <!-- footer - this is purely optional -->
-                    <div class="footer_nav_holder">
-                        <div class="footer_nav_container first_footer_bg">
-                            <h3>quick links</h3>
-
-                            <a class="trackClick" href="/informed/Pages/BoardCommittees/Default.aspx">Board</a><br />
-                            <a class="trackClick" href="/rules/Pages/BusinessPracticeManuals/Default.aspx">Business Practice Manuals</a><br />
-                            <a class="trackClick" href="/about/Pages/Careers/Default.aspx">Careers</a><br />
-                            <a class="trackClick" href="/rules/Pages/Regulatory/Default.aspx">Tariff</a><br />
-                        </div>
-                        <!-- end footer_nav_container -->
-                        <div class="footer_nav_container">
-                            <h3>stay informed</h3>
-                            <span lang="en-us"></span>
-                            <a class="trackClick" href="/informed/Pages/Notifications/NoticeLog.aspx">Alerts, Warnings and Emergency Notifications</a><br />
-
-                            <a class="trackClick" href="/dailybriefing/Pages/default.aspx">Daily Briefing</a><br />
-
-                            <a class="trackClick" href="/informed/Pages/Notifications/default.aspx">Subscriptions and notifications</a><br />
-                            <a class="trackClick" href="/pages/recent-documents.aspx">Recent Documents</a><br />
-
-                        </div>
-                        <!-- end footer_nav_container -->
-                        <div class="footer_nav_container">
-                            <h3>related websites</h3>
-                            <a class="trackClick" href="https://portal.caiso.com/" target="_blank">Market Participant Portal</a><br />
-                            <a class="trackClick" href="http://oasis.caiso.com/mrioasis" target="_blank">OASIS</a><br />
-                            <a class="trackClick" href="https://www.westerneim.com/pages/default.aspx" target="_blank">Western EIM</a><br />
-                            <a class="trackClick" href="https://weim.caiso.com" target="_blank">Western EIM Portal</a><br />
-                            <a class="trackClick" href="https://developer.caiso.com" target="_blank">Developer</a><br />
-                            <a class="trackClick" href="https://rc.caiso.com" target="_blank">RC West Portal</a><br />                            
-                        </div>
-                        <!-- end footer_nav_container -->
-
-                        <div class="footer_nav_container last_footer_width">
-                            <h3>stay connected</h3>
-                            <a class="trackClick" href="/Pages/GlobalRSS.aspx">
-                                <img id="ctl00_Image1" src="/TodaysOutlook/Style%20Library/caiso/images/footer/RSS-20x20.jpg" height="20" width="20" />
-                            </a> <span lang="en-us">
-                                &nbsp;&nbsp;
-                            </span><a class="trackClick" href="https://www.facebook.com/pages/California-ISO/164212943604621"
-                                      target="_blank">
-                                <img id="ctl00_Image2" src="/TodaysOutlook/Style%20Library/caiso/images/footer/Facebook-20x20.jpg" height="20" width="20" />
-                            </a> <span lang="en-us">
-                                &nbsp;&nbsp;
-                            </span><a class="trackClick" href="https://twitter.com/California_ISO" target="_blank">
-                                <img id="ctl00_Image3" alt="" src="/TodaysOutlook/Style%20Library/caiso/images/footer/Twitter-20x20.jpg" height="20" width="20" />
-                            </a><span lang="en-us">
-                                &nbsp;&nbsp;
-                            </span><a class="trackClick" href="http://www.youtube.com/channel/UCQTJYOWTa4OE0zLK5VYxgUA"
-                                      target="_blank">
-                                <img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px"
-                                     src="/TodaysOutlook/Style Library/caiso/images/footer/YouTube-28x20.jpg" alt="YouTube" />
-                            </a>
-                            <span lang="en-us">&nbsp;&nbsp;</span><a class="trackClick" href="/Pages/ISOToday.aspx"
-                                                                     target="_blank">
-                                <img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px"
-                                     src="/TodaysOutlook/Style Library/caiso/images/footer/App-14x20.jpg" alt="ISO Today" />
-                            </a>
-                            <span lang="en-us">&nbsp;&nbsp;</span><a class="trackClick" href="http://www.flexalert.org" target="blank" alt="FlexAlert.org">
-                                <img src="/TodaysOutlook/Style Library/caiso/images/footer/FlexAlert-26x20.jpg" style="margin-bottom: 0px" />
-                            </a>
-                        </div>
-                        <!-- end footer_nav_container -->
-
-                    </div>
-                    <!-- end footer_nav_holder -->
-                    <div class="footer">
-                        Copyright &copy; 2021 California Independent System Operator. All rights reserved.
-                        <br />
-                        <span lang="en-us" class="style1"><a class="trackClick" href="/Pages/glossary.aspx">Glossary</a><a class="trackClick" href="/Pages/sitehelp.aspx">Site help</a><a class="trackClick" href="/pages/sitemap.aspx">Sitemap</a>  <a class="trackClick" href="/Pages/Legal.aspx">Privacy and Terms of use</a></span>
-                    </div>
-                    <!-- end footer -->
-
-
-                    <div class="s4-notdlg" style="display: none; clear: both;">
-                        &copy; Copyright 2019 SiteName
-                    </div>
-     
-                    <div id="DeltaFormDigest">
-	
-                        
-							<script type="text/javascript">//<![CDATA[
-        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
-        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
-            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
-        {
-            formDigestElement.value = '0x279C2A6E94D4A0EB5829C36D57A0B797EE06443AB954476045A3D1389BAA7AF4B5259CB27E7C3B356477683DA16925904DFC4D4301AC92FCCF4B8C2AFB14E765,20 Aug 2021 03:08:30 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
-        }
-        //]]>
-        </script>
-                        
-                    
-</div>
-                    <div class="ms-hide">
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                    </div>
-                </div>
-            </div>
-
-            <script type="text/javascript">// <![CDATA[ 
-
-var g_Workspace = "s4-workspace";
-		 // ]]>
-</script>
-        
-
-<script type="text/javascript">
-//<![CDATA[
-var _spFormDigestRefreshInterval = 1440000;function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
-function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
-_spBodyOnLoadFunctionNames.push('loadMDN1');
-function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
-    CoreInvoke('SetAdditionalNavigateHierarchyQString', additionalQString);
-    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
-}
-
-g_originalSPNavigateFunc = _spNavigateHierarchy;
-_spNavigateHierarchy = _spNavigateHierarchyEx;
- IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
-function _RegisterWebPartPageCUI()
-{
-    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{1cd8961c-2e53-48a2-a6a5-9284056355cf}",itemId: 87,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: false,rootFolderUrl: "\u002fPages",itemPermissions:{High:0,Low:196673}};
-    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
-    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
-    var hid;
-    hid = document.getElementById("_wpSelected");
-    if (hid != null)
-    {
-        var wpid = hid.value;
-        if (wpid.length > 0)
-        {
-            var zc = document.getElementById(wpid);
-            if (zc != null)
-                wpcomp.selectWebPart(zc, false);
-        }
-    }
-    hid = document.getElementById("_wzSelected");
-    if (hid != null)
-    {
-        var wzid = hid.value;
-        if (wzid.length > 0)
-        {
-            wpcomp.selectWebPartZone(null, wzid);
-        }
-    }
-};
-function __RegisterWebPartPageCUI() {
-ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
-_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';g_spPreFetchKeys.push('sp.core.js');
-            ExecuteOrDelayUntilScriptLoaded(
-                function() 
-                {                    
-                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"http://www.caiso.com","contextTitle":"Home","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bangla"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":1001,"name":"Everything","url":"{searchcenterurl}/results.aspx","promptString":"Search everything"},{"id":1002,"name":"People","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Search people"},{"id":1003,"name":"Conversations","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Search conversations"},{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"webUILanguageDirectory":"en-US","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
-                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
-                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
-var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
-var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
-
-                    ExecuteOrDelayUntilScriptLoaded(
-                        function() 
-                        {
-                            if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr')))
-                            {
-                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"messages":[],"queryGroupNames":["MasterPage"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox_Compact.js","resultsPageAddress":"/search/Pages/WWW-Not-Archived-Results.aspx","serverInitialRender":true,"showDataErrors":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"));
-                                sb.activate('Search...', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
-                            }
-                        }, 'Search.ClientControls.js');g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_TopNavigationMenu = null; function init_zz1_TopNavigationMenu() { if (g_zz1_TopNavigationMenu == null) g_zz1_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenu')); } if(g_spPreFetchKeys) {{ g_spPreFetchKeys.push('SP.Core.js');}}EnsureScriptFunc('SP.Core.js', 'SP.UI.AspMenu', init_zz1_TopNavigationMenu);
-g_QuickLaunchControlIds.push("zz3_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_V4QuickLaunchMenu = null; function init_zz3_V4QuickLaunchMenu() { if (g_zz3_V4QuickLaunchMenu == null) g_zz3_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_V4QuickLaunchMenu, 'SP.Core.js');
-//]]>
-</script>
-</form>
-        <span id="DeltaPlaceHolderUtilityContent"></span>
-        
-    </body>
-</html>
+Time,Hour ahead forecast,Current demand,Net demand,Net demand forecast
+00:00,26237,26166,22029,23758
+00:05,25964,26119,21931,22155
+00:10,25964,26082,21947,22155
+00:15,25964,25988,21896,22155
+00:20,25571,25884,21818,22155
+00:25,25571,25791,21806,22155
+00:30,25571,25668,21665,22155
+00:35,25217,25532,21518,22155
+00:40,25217,25420,21409,22155
+00:45,25217,25314,21248,22155
+00:50,24914,25175,21133,22155
+00:55,24914,25066,21032,22155
+01:00,24914,24938,20870,22155
+01:05,24636,24876,20864,20875
+01:10,24636,24775,20849,20875
+01:15,24636,24700,20832,20875
+01:20,24426,24602,20743,20875
+01:25,24426,24499,20662,20875
+01:30,24426,24408,20586,20875
+01:35,24094,24338,20508,20875
+01:40,24094,24259,20454,20875
+01:45,24094,24166,20378,20875
+01:50,23873,24072,20362,20875
+01:55,23873,24006,20313,20875
+02:00,23873,23882,20246,20875
+02:05,23672,23877,20285,20315
+02:10,23672,23865,20302,20315
+02:15,23672,23803,20293,20315
+02:20,23553,23774,20302,20315
+02:25,23553,23647,20233,20315
+02:30,23553,23598,20204,20315
+02:35,23364,23531,20155,20315
+02:40,23364,23495,20123,20315
+02:45,23364,23439,20089,20315
+02:50,23291,23434,20063,20315
+02:55,23291,23369,20047,20315
+03:00,23291,23301,19994,20315
+03:05,23238,23238,19917,20234
+03:10,23238,23243,19906,20234
+03:15,23238,23215,19836,20234
+03:20,23064,23216,19891,20234
+03:25,23064,23208,19871,20234
+03:30,23064,23159,19872,20234
+03:35,23120,23165,19850,20234
+03:40,23120,23146,19842,20234
+03:45,23120,23116,19845,20234
+03:50,23179,23099,19835,20234
+03:55,23179,23053,19829,20234
+04:00,23179,23073,19816,20234
+04:05,23247,23160,19935,20596
+04:10,23247,23240,20071,20596
+04:15,23247,23249,20107,20596
+04:20,23377,23288,20146,20596
+04:25,23377,23340,20151,20596
+04:30,23377,23358,20231,20596
+04:35,23488,23417,20316,20596
+04:40,23488,23469,20412,20596
+04:45,23488,23469,20504,20596
+04:50,23815,23510,20601,20596
+04:55,23815,23543,20662,20596
+05:00,23815,23614,20772,20596
+05:05,24153,23840,20935,21801
+05:10,24153,24038,21220,21801
+05:15,24153,24130,21356,21801
+05:20,24493,24199,21428,21801
+05:25,24493,24266,21497,21801
+05:30,24493,24331,21557,21801
+05:35,24753,24462,21675,21801
+05:40,24753,24548,21771,21801
+05:45,24753,24621,21892,21801
+05:50,25225,24715,22000,21801
+05:55,25225,24851,22161,21801
+06:00,25225,24997,22278,21801
+06:05,25596,25343,22518,22707
+06:10,25596,25645,22942,22707
+06:15,25596,25778,23092,22707
+06:20,25905,25847,23158,22707
+06:25,25905,25906,23190,22707
+06:30,25905,25932,23186,22707
+06:35,26181,25992,23132,22707
+06:40,26181,26056,23074,22707
+06:45,26181,26118,22960,22707
+06:50,26530,26186,22848,22707
+06:55,26530,26253,22722,22707
+07:00,26530,26333,22560,22707
+07:05,26838,26543,22413,19617
+07:10,26838,26732,22377,19617
+07:15,26838,26794,22179,19617
+07:20,26942,26894,21958,19617
+07:25,26942,26938,21665,19617
+07:30,26942,26926,21316,19617
+07:35,27066,26998,20983,19617
+07:40,27066,27038,20685,19617
+07:45,27066,27052,20356,19617
+07:50,27334,27105,20055,19617
+07:55,27334,27114,19796,19617
+08:00,27334,27148,19507,19617
+08:05,27409,27309,19277,15718
+08:10,27409,27381,19079,15718
+08:15,27409,27418,18854,15718
+08:20,27412,27438,18596,15718
+08:25,27412,27558,18406,15718
+08:30,27412,27544,18224,15718
+08:35,27502,27551,17990,15718
+08:40,27502,27609,17781,15718
+08:45,27502,27576,17637,15718
+08:50,27719,27579,17438,15718
+08:55,27719,27620,17334,15718
+09:00,27719,27631,17203,15718
+09:05,27761,27693,17017,14017
+09:10,27761,27739,16931,14017
+09:15,27761,27715,16778,14017
+09:20,27772,27733,16596,14017
+09:25,27772,27752,16496,14017
+09:30,27772,27730,16328,14017
+09:35,27804,27716,16292,14017
+09:40,27804,27691,16203,14017
+09:45,27804,27706,16079,14017
+09:50,27829,27630,15935,14017
+09:55,27829,27682,15923,14017
+10:00,27829,27638,15959,14017
+10:05,27774,27711,15714,13111
+10:10,27774,27682,15586,13111
+10:15,27774,27696,15470,13111
+10:20,27806,27706,15443,13111
+10:25,27806,27697,15362,13111
+10:30,27806,27774,15360,13111
+10:35,27854,27803,15278,13111
+10:40,27854,27789,15242,13111
+10:45,27854,27804,15148,13111
+10:50,27976,27852,15190,13111
+10:55,27976,27858,15167,13111
+11:00,27976,27796,14979,13111
+11:05,28075,27827,14830,12873
+11:10,28075,27843,14832,12873
+11:15,28075,27852,14870,12873
+11:20,28089,27858,14824,12873
+11:25,28089,27876,14796,12873
+11:30,28089,27894,14806,12873
+11:35,28183,27917,14761,12873
+11:40,28183,27972,14788,12873
+11:45,28183,28004,14817,12873
+11:50,28297,28062,14741,12873
+11:55,28297,28110,14737,12873
+12:00,28297,28118,14723,12873
+12:05,28439,28180,14753,13367
+12:10,28439,28189,14851,13367
+12:15,28439,28192,14756,13367
+12:20,28516,28234,14800,13367
+12:25,28516,28325,14845,13367
+12:30,28516,28358,14881,13367
+12:35,28681,28385,14902,13367
+12:40,28681,28461,14875,13367
+12:45,28681,28520,14929,13367
+12:50,28939,28595,15005,13367
+12:55,28939,28705,15197,13367
+13:00,28939,28788,15240,13367
+13:05,29226,28869,15334,14391
+13:10,29226,28947,15411,14391
+13:15,29226,29051,15504,14391
+13:20,29461,29100,15533,14391
+13:25,29461,29234,15620,14391
+13:30,29461,29320,15728,14391
+13:35,29714,29418,15779,14391
+13:40,29714,29576,15941,14391
+13:45,29714,29660,16155,14391
+13:50,30115,29808,16240,14391
+13:55,30115,29884,16327,14391
+14:00,30115,30007,16531,14391
+14:05,30445,30057,16585,15616
+14:10,30445,30130,16620,15616
+14:15,30445,30280,16848,15616
+14:20,30796,30408,16977,15616
+14:25,30796,30525,17072,15616
+14:30,30796,30625,17065,15616
+14:35,31137,30748,17226,15616
+14:40,31137,30880,17203,15616
+14:45,31137,31013,17268,15616
+14:50,31440,31148,17396,15616
+14:55,31440,31268,17470,15616
+15:00,31440,31383,17599,15616
+15:05,31859,31482,17787,17298
+15:10,31859,31605,17938,17298
+15:15,31859,31722,18033,17298
+15:20,32242,31900,18237,17298
+15:25,32242,31999,18382,17298
+15:30,32242,32132,18499,17298
+15:35,32636,32246,18680,17298
+15:40,32636,32362,18822,17298
+15:45,32636,32520,19067,17298
+15:50,32890,32627,19300,17298
+15:55,32890,32766,19504,17298
+16:00,32890,32847,19715,17298
+16:05,33210,32777,19866,19146
+16:10,33210,32780,19844,19146
+16:15,33210,32914,20101,19146
+16:20,33397,32998,20407,19146
+16:25,33397,33113,20541,19146
+16:30,33397,33200,20775,19146
+16:35,33625,33251,20938,19146
+16:40,33625,33327,21067,19146
+16:45,33625,33426,21272,19146
+16:50,33687,33534,21493,19146
+16:55,33687,33619,21687,19146
+17:00,33687,33671,21911,19146
+17:05,33867,33597,22042,21991
+17:10,33867,33565,22187,21991
+17:15,33867,33607,22467,21991
+17:20,33915,33681,22807,21991
+17:25,33915,33767,23248,21991
+17:30,33915,33823,23646,21991
+17:35,34032,33882,24092,21991
+17:40,34032,33937,24563,21991
+17:45,34032,34005,24986,21991
+17:50,33912,34024,25385,21991
+17:55,33912,34047,25843,21991
+18:00,33912,34036,26262,21991
+18:05,33899,33854,26576,26869
+18:10,33899,33746,26817,26869
+18:15,33899,33701,27147,26869
+18:20,33764,33712,27500,26869
+18:25,33764,33665,27804,26869
+18:30,33764,33635,28089,26869
+18:35,33509,33636,28402,26869
+18:40,33509,33572,28634,26869
+18:45,33509,33527,28830,26869
+18:50,33237,33467,29062,26869
+18:55,33237,33389,29246,26869
+19:00,33237,33330,29371,26869
+19:05,32953,33189,29424,29624
+19:10,32953,33103,29333,29624
+19:15,32953,33061,29366,29624
+19:20,32876,33022,29367,29624
+19:25,32876,32978,29356,29624
+19:30,32876,32938,29351,29624
+19:35,32998,32954,29371,29624
+19:40,32998,32986,29394,29624
+19:45,32998,33004,29502,29624
+19:50,33043,32990,29501,29624
+19:55,33043,33036,29550,29624
+20:00,33043,33012,29536,29624
+20:05,32918,32983,29460,29462
+20:10,32918,32954,29377,29462
+20:15,32918,32918,29333,29462
+20:20,32680,32870,29307,29462
+20:25,32680,32767,29181,29462
+20:30,32680,,,29462
+20:35,32322,,,29462
+20:40,32322,,,29462
+20:45,32322,,,29462
+20:50,31959,,,29462
+20:55,31959,,,29462
+21:00,31959,,,29462
+21:05,31566,,,27933
+21:10,31566,,,27933
+21:15,31566,,,27933
+21:20,31102,,,27933
+21:25,31102,,,27933
+21:30,31102,,,27933
+21:35,30558,,,27933
+21:40,30558,,,27933
+21:45,30558,,,27933
+21:50,29942,,,27933
+21:55,29942,,,27933
+22:00,29942,,,27933
+22:05,29373,,,25581
+22:10,29373,,,25581
+22:15,29373,,,25581
+22:20,28780,,,25581
+22:25,28780,,,25581
+22:30,28780,,,25581
+22:35,28175,,,25581
+22:40,28175,,,25581
+22:45,28175,,,25581
+22:50,27626,,,25581
+22:55,27626,,,25581
+23:00,27626,,,25581
+23:05,27125,,,23695
+23:10,27125,,,23695
+23:15,27125,,,23695
+23:20,26653,,,23695
+23:25,26653,,,23695
+23:30,26653,,,23695
+23:35,26188,,,23695
+23:40,26188,,,23695
+23:45,26188,,,23695
+23:50,25797,,,23695
+23:55,25797,,,23695
+00:00,25797,,,23695
