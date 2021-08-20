@@ -65,7 +65,7 @@
 	</script>			
 		
 
-            <link rel="canonical" href="http://www.caiso.com:80/Pages/404.aspx?_=1629424976" />
+            <link rel="canonical" href="http://www.caiso.com:80/Pages/404.aspx" />
         <link rel="shortcut icon" href="/TodaysOutlook/Style Library/caiso/images/favicon.ico?rev=30" type="image/vnd.microsoft.icon" id="favicon" />
 		<![CDATA[ [if IE 9] ]]>        <style type="text/css">//<![CDATA[
 		    .ms-core-animation-transparent
@@ -135,7 +135,7 @@
         
     </head>
     <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();">
-        <form method="post" action="./netdemand.csv?_=1629424976" id="aspnetForm">
+        <form method="post" action="./fuelsource.csv" id="aspnetForm">
 <input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" />
 <input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
 <input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
@@ -166,17 +166,17 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '8e37e79f-971c-c0bd-4b10-df77e96d5bde';
+var g_correlationId = '5839e79f-17cb-c0bd-f600-de9b0d55d039';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002fwww.caiso.com", siteAbsoluteUrl: "http:\u002f\u002fwww.caiso.com", serverRequestPath: "\u002fpages\u002f404.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Home", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fSiteCollectionImages\u002fCAISOlogo.jpg", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2021-08-20T02:02:58.4404820Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-08-20T02:02:58.4404820Z"), siteClientTag: "2202$$16.0.5083.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:0,Low:196673},pageListId:"{1cd8961c-2e53-48a2-a6a5-9284056355cf}",pageItemId:87, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002fwww.caiso.com", siteAbsoluteUrl: "http:\u002f\u002fwww.caiso.com", serverRequestPath: "\u002fpages\u002f404.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Home", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fSiteCollectionImages\u002fCAISOlogo.jpg", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2021-08-20T02:34:17.2161212Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-08-20T02:34:17.2161212Z"), siteClientTag: "2202$$16.0.5083.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:0,Low:196673},pageListId:"{1cd8961c-2e53-48a2-a6a5-9284056355cf}",pageItemId:87, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
-    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002foutlook\u002fSP\u002fnetdemand.csv");
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002foutlook\u002fSP\u002fHistory\u002f20151207\u002ffuelsource.csv");
 
 }
 Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
@@ -287,7 +287,7 @@ Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472
 
             </div>             
 			<span><div style="display:none;">
-<a id="ctl00_ctl59_ExplicitLogin" class="ms-signInLink" href="http://www.caiso.com/_layouts/15/Authenticate.aspx?Source=%2Foutlook%2FSP%2Fnetdemand%2Ecsv%3F%5F%3D1629424976" style="display:inline-block;">Sign In</a>
+<a id="ctl00_ctl59_ExplicitLogin" class="ms-signInLink" href="http://www.caiso.com/_layouts/15/Authenticate.aspx?Source=%2Foutlook%2FSP%2FHistory%2F20151207%2Ffuelsource%2Ecsv" style="display:inline-block;">Sign In</a>
 </div></span>
        		
        		<div class="banner-top"><p>The California ISO is monitoring COVID-19 developments, and is taking proactive steps to protect staff, customers, community, and the electric grid. <a href="/about/Pages/News/default.aspx#covid19">Learn more.</a></p></div>
@@ -638,7 +638,7 @@ _spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0xCDB6667AB56DABB96481AAA2F1D7C20C5A46E9875D0B7D4A2C6D2C9EDD9E303C565B00E90C9091B1C80B02B131522C1DF0F6B8CB0A5BD1C87490EC1198AB4279,20 Aug 2021 02:03:01 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x34BACBE4B5B3ED761F3C5A7876610ACEB495D5D66FF352E9EE6FDDBC64E732EB912D3EAF1CE976D127947AC3B0533243569DFCE06713212BCD16B903DBB7DB31,20 Aug 2021 02:35:31 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
