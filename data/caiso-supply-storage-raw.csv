@@ -26,3 +26,6 @@ Time,Total batteries,Stand-alone batteries,Hybrid batteries
 02:00,206,194,0
 02:05,82,74,0
 02:10,72,71,0
+02:15,81,81,1
+02:20,121,123,-1
+02:25,94,95,-3
